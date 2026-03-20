@@ -1,2 +1,3 @@
-# flex-fitness-tracker-h3mb
-Flex Fitness Tracker with automated issue comment bot
+# Flex Fitness Tracker H3Mb
+
+Automated issue comment bot repository.
